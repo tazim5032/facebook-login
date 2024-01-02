@@ -1,0 +1,24 @@
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+.root{
+
+    align-items: center;
+}
+.margin{
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+    width: 500px;
+
+}
+.some_work{
+
+    margin: 150px 0px 0px 150px;
+}
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
